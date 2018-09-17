@@ -62,7 +62,7 @@ education:
       university: University of Applied Sciences, Leiden
       time: 2012 - 2017
       details: |
-        This study taught me to the basics of how to write code. 
+        This study taught me the basics of how to write software. 
         It all starts with creating a website and some simple java. After 
         the first year I specialisted myself in interaction-technology and 
         learned how to design, create and test web and native apps. I did a 
@@ -78,48 +78,37 @@ education:
           - Sensor-technology
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Stack Developer
+      time: 2017 - Present
+      company: Leaplines, Leiden
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      I joined Leaplines because I wanted to make the next step in me careers. 
+      I work on different e-learning application made for big enterprises. They only 
+      use the newest and best technologies like reactJS, react-native and graphql. 
+      I also learned how to build backend systems with ruby on rails and run apps in 
+      containers with docker and docker-compose.
 
-          - Bullet point
-          - Bullet point 
+          - Refactor the trainer app to reactjs (React)
+          - Created frontend part of the survey app (Sass/React/Graphql)
+          - Created an UI kit (Sass/React)
+          - Created frontend + backend stories app (Sass/React/Graphql/Rails/Postgresql)
+          - Build prototype platform app in react native (React Native)
+          - Maintenance platform app (Ruby/Rails)
+          - Building tests for platform app (SYPRESS)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Frontend developer
+      time: 2017
+      company: Innecs Power Systems, Ter Aar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I did an internship at Innecs for my study Informatics. After I graduated 
+        they asked me to stay for a little longer to polish my dashboard that I 
+        created for them. It is a data visualisation system made for a industrial 
+        steam expander that they have build. It monitors different variables like 
+        temperature, pressure, power etc.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Designed dashboard
+          - Created frontend + backend dashboard (React/Firebase/Python)
 
 projects:
     title: Projects
