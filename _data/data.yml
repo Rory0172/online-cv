@@ -113,29 +113,48 @@ projects:
         tagline: "A crypto bot made for giving signals to other users on telegram. (Rails, REST)"
 
       - title: Prototype weed shop app
-        tagline: "Native mobile app made for customers who can rating weed shops on quality . (react-native)"
+        tagline: "Native mobile app made for customers who can rating weed shops on quality . (React Native)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: React
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML5
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: CSS/SCSS/SASS
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Javascript
+        level: 70%
+
+      - name: React Native
+        level: 60%
+
+      - name: GraphQL
+        level: 80%
+
+      - name: Apollo
+        level: 80%
+
+      - name: Rest
+        level: 60%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Ruby
+        level: 70%
+
+      - name: PostgresQL
+        level: 80%
+
+      - name: Docker/docker-compose
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
