@@ -49,13 +49,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Web and Technology enthusiast, enjoy solving problems and learning new technologies.
+      Graduated informatics student with around 2 years of working experience. Currently 
+      looking for part time jobs for 2-3 days a week, prefered stack: React/GraphQL/Rails.
 
 education:
     - degree: MSc of informatics
@@ -117,7 +113,7 @@ projects:
         tagline: "A crypto bot made for giving signals to other users on telegram. (Rails, REST)"
 
       - title: Prototype weed shop app
-        tagline: "Native mobile app made for customers who can rating weed shops created. (react-native)"
+        tagline: "Native mobile app made for customers who can rating weed shops on quality . (react-native)"
 
 skills:
     title: Skills &amp; Proficiency
