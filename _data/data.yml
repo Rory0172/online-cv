@@ -114,21 +114,10 @@ projects:
     title: Projects
     assignments:
       - title: Crypto bot
-        link:
         tagline: "A crypto bot made for giving signals to other users on telegram. (Rails, REST)"
 
       - title: Prototype weed shop app
-        link:
         tagline: "Native mobile app made for customers who can rating weed shops created. (react-native)"
-
-publications:
-    title:
-    intro:
-
-    papers:
-      - title:
-        authors:
-        conference:
 
 skills:
     title: Skills &amp; Proficiency
