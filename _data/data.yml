@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -82,11 +82,11 @@ experiences:
       time: 2017 - Present
       company: Leaplines, Leiden
       details: |
-      I joined Leaplines because I wanted to make the next step in me careers. 
-      I work on different e-learning application made for big enterprises. They only 
-      use the newest and best technologies like reactJS, react-native and graphql. 
-      I also learned how to build backend systems with ruby on rails and run apps in 
-      containers with docker and docker-compose.
+        I joined Leaplines because I wanted to make the next step in me careers. 
+        I work on different e-learning application made for big enterprises. They only 
+        use the newest and best technologies like reactJS, react-native and graphql. 
+        I also learned how to build backend systems with ruby on rails and run apps in 
+        containers with docker and docker-compose.
 
           - Refactor the trainer app to reactjs (React)
           - Created frontend part of the survey app (Sass/React/Graphql)
@@ -108,7 +108,7 @@ experiences:
         temperature, pressure, power etc.
 
           - Designed dashboard
-          - Created frontend + backend dashboard (React/Firebase/Python)
+          - Created frontend + backend dashboard app (React/Firebase/Python)
 
 projects:
     title: Projects
