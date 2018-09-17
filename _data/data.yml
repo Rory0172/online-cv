@@ -64,8 +64,7 @@ education:
         learned how to design, create and test web and native apps. I did a 
         minor sensor-technology to broaden my knowledge and I enjoyed it a 
         lot! I made an IoT device to track different variables for valuable 
-        packages. For my final exam I created a data visualisation system 
-        for a industrial steam expander that was made with react/firebase/python.
+        packages. For my final exam I created a data visualisation system.
 
           - Information systems
           - Apps
@@ -98,8 +97,8 @@ experiences:
       company: Innecs Power Systems, Ter Aar
       details: |
         I did an internship at Innecs for my study computer science. After I graduated 
-        they asked me to stay for a little longer to polish my dashboard that I 
-        created for them. It is a data visualisation system made for a industrial 
+        they asked me to stay for a little longer to polish the product I created for them. 
+        This was a data visualisation system made for a industrial 
         steam expander what they build themself. It monitors different variables like 
         temperature, pressure, power etc.
 
