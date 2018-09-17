@@ -50,11 +50,11 @@ career-profile:
     title: Career Profile
     summary: |
       Web and Technology enthusiast, enjoy solving problems and learning new technologies.
-      Graduated informatics student with around 2 years of working experience. Currently 
+      graduated in computer science with two years of work experience. Currently 
       looking for part time jobs for 2-3 days a week, prefered stack: React/GraphQL/Rails.
 
 education:
-    - degree: MSc of informatics
+    - degree: MSc of computer science
       university: University of Applied Sciences, Leiden
       time: 2012 - 2017
       details: |
@@ -97,7 +97,7 @@ experiences:
       time: 2017
       company: Innecs Power Systems, Ter Aar
       details: |
-        I did an internship at Innecs for my study Informatics. After I graduated 
+        I did an internship at Innecs for my study computer science. After I graduated 
         they asked me to stay for a little longer to polish my dashboard that I 
         created for them. It is a data visualisation system made for a industrial 
         steam expander that they have build. It monitors different variables like 
