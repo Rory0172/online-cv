@@ -50,8 +50,8 @@ career-profile:
     title: Career Profile
     summary: |
       Web and Technology enthusiast, enjoy solving problems and learning new technologies.
-      graduated in computer science with two years of work experience. Currently 
-      looking for part time jobs for 2-3 days a week, prefered stack: React/GraphQL/Rails.
+      Graduated in computer science and two years of working experience. Currently 
+      looking for part-time a job (2-3 days a week), prefered stack: React/GraphQL/Rails.
 
 education:
     - degree: BSc of computer science
@@ -59,11 +59,11 @@ education:
       time: 2012 - 2017
       details: |
         This study taught me the basics of how to write software. 
-        It all starts with creating a website and some simple java. After 
+        It all started with creating a website and some simple Java. After 
         the first year I specialisted myself in interaction-technology and 
         learned how to design, create and test web and native apps. I did a 
-        minor sensor-technology to broaden my knowledge and I enjoyed it a 
-        lot! I made an IoT device to track different variables for valuable 
+        minor sensor-technology to expand my horizon and enjoyed it a lot! 
+        I made an IoT device to track different variables for valuable 
         packages. For my final exam I created a data visualisation system.
 
           - Information systems
@@ -77,9 +77,9 @@ experiences:
       time: 2017 - Present
       company: Leaplines, Leiden
       details: |
-        I joined Leaplines because I wanted to make the next step in me careers. 
-        I work on different e-learning application made for big enterprises. They only 
-        use the newest and best technologies like React, React Native and GraphQL. 
+        I joined Leaplines because I wanted to make the next step in my careers.
+        I work on different e-learning application made for the top 10 retailers. They 
+        use the newest and best technologies only, like React, React Native and GraphQL. 
         I also learned how to build backend systems with Ruby on Rails and run those apps in 
         containers with docker and docker-compose.
 
@@ -87,9 +87,9 @@ experiences:
           - Created frontend part of the survey app (Sass/React/Graphql)
           - Created an UI kit (Sass/React)
           - Created frontend + backend stories app (Sass/React/GraphQL/Rails/PostgreSQL)
-          - Build prototype platform app in react native (React Native)
+          - Build prototype for the platform app (React Native)
           - Maintenance platform app (Ruby/Rails)
-          - Building tests for platform app (SYPRESS)
+          - Building tests for the platform app (SYPRESS)
 
 
     - role: Frontend developer
@@ -109,10 +109,10 @@ projects:
     title: Projects
     assignments:
       - title: Crypto bot
-        tagline: "A crypto bot made for giving signals to other users on telegram. (Rails, REST)"
+        tagline: "A crypto bot made for giving coin signals to other users on telegram. (Rails, REST)"
 
       - title: Prototype weed shop app
-        tagline: "Native mobile app made for customers who can rating weed shops on quality . (React Native)"
+        tagline: "Native mobile app made for customers who can rating weed shops on quality. (React Native)"
 
 skills:
     title: Skills &amp; Proficiency
