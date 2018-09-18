@@ -43,7 +43,7 @@ sidebar:
       - item: Motorcycles
         link:
 
-      - item: Technologie
+      - item: Technology
         link:
 
 career-profile:
@@ -54,7 +54,7 @@ career-profile:
       looking for part time jobs for 2-3 days a week, prefered stack: React/GraphQL/Rails.
 
 education:
-    - degree: MSc of computer science
+    - degree: BSc of computer science
       university: University of Applied Sciences, Leiden
       time: 2012 - 2017
       details: |
