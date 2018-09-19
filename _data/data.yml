@@ -76,7 +76,7 @@ experiences:
           - Created UI kit (Sass/React)
           - Created video sharings app (Sass/React/GraphQL/Rails/PostgreSQL)
           - Created native app (React Native)
-          - Automated web testing (CYPRESS)
+          - Automated web testing (Cypress.io)
 
 
     - role: Frontend developer
@@ -92,10 +92,10 @@ projects:
     title: Projects
     assignments:
       - title: Telegram bot
-        tagline: "Telegram bot created for broadcasting crypto signals. (Rails, REST)"
+        tagline: "Telegram bot created for broadcasting crypto signals (Rails, REST)"
 
       - title: Prototype app
-        tagline: "Native mobile app made for customers who can rate canabis shops on quality. (React Native)"
+        tagline: "Native mobile app made for customers who can rate canabis shops on quality (React Native)"
 
 skills:
     title: Skills &amp; Proficiency
