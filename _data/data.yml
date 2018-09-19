@@ -110,20 +110,11 @@ skills:
       - name: SASS
         level: 80%
 
-      - name: Javascript
-        level: 70%
-
       - name: React Native
         level: 60%
 
       - name: GraphQL
         level: 80%
-
-      - name: Apollo
-        level: 80%
-
-      - name: Rest
-        level: 60%
 
       - name: Ruby on Rails
         level: 70%
