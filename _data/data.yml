@@ -65,16 +65,26 @@ education:
           - Minor Sensor-technology
 
 experiences:
-    - role: Full Stack Developer
-      time: 2017 - Present
+  - role: Backend developer
+      time: 2018 - present
       company: Leaplines, Leiden
       details: |
-        Responsible for building education training apps with React and GrapqhQL and Rails backend.
+        Responsible for building education training apps with Rails backend.
+
+          - Created video sharing app (Rails/PostgreSQL)
+          - Deploying apps with docker on kubernetes
+          - Implemented LTI standards in multiple apps (Rails)
+
+    - role: Frontend developer
+      time: 2017 - 2018
+      company: Leaplines, Leiden
+      details: |
+        Responsible for building education training apps with React and GrapqhQL.
 
           - Refactor Rails app into React (React)
           - Created training app (Sass/React/Graphql)
           - Created UI kit (Sass/React)
-          - Created video sharings app (Sass/React/GraphQL/Rails/PostgreSQL)
+          - Created video sharing app (Sass/React/GraphQL)
           - Created native app (React Native)
           - Automated web testing (Cypress.io)
 
@@ -123,6 +133,9 @@ skills:
         level: 80%
 
       - name: Docker/docker-compose
+        level: 60%
+
+      - name: Kubernetes
         level: 60%
 
 
