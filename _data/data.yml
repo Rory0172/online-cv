@@ -65,7 +65,7 @@ education:
           - Minor Sensor-technology
 
 experiences:
-  - role: Backend developer
+    - role: Backend developer
       time: 2018 - present
       company: Leaplines, Leiden
       details: |
