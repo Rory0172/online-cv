@@ -29,7 +29,7 @@ sidebar:
 
       - idiom: English
         level: Professional
-        
+
     interests:
       - item: Skiing
         link:
@@ -73,7 +73,7 @@ experiences:
 
           - Created video sharing app (Rails/PostgreSQL)
           - Deploying apps with docker on kubernetes
-          - Implemented LTI standards in multiple apps (Rails)
+          - Implemented LTI standard in multiple apps (Rails)
 
     - role: Frontend developer
       time: 2017 - 2018
@@ -87,7 +87,6 @@ experiences:
           - Created video sharing app (Sass/React/GraphQL)
           - Created native app (React Native)
           - Automated web testing (Cypress.io)
-
 
     - role: Frontend developer
       time: 2017
