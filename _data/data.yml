@@ -72,8 +72,11 @@ experiences:
         Responsible for building education training apps with Rails backend.
 
           - Created video sharing app (Rails/PostgreSQL)
-          - Deploying apps with docker on kubernetes
-          - Implemented LTI standard in multiple apps (Rails)
+          - Created React Admin tool (backend + API)\
+          - Added error monitoring to all our apps (sentry.io)
+          - Created backend academy app (graphql/Ruby/PostgreSQL)
+          - Added internationalisation to multible apps
+          - Deploying apps with docker on kubernetes / Heroku
 
     - role: Frontend developer
       time: 2017 - 2018
@@ -85,6 +88,7 @@ experiences:
           - Created training app (Sass/React/Graphql)
           - Created UI kit (Sass/React)
           - Created video sharing app (Sass/React/GraphQL)
+          - Created react admin tool (Sass/React/Graphql)
           - Created native app (React Native)
           - Automated web testing (Cypress.io)
 
@@ -105,6 +109,13 @@ projects:
 
       - title: Prototype app
         tagline: "Native mobile app made for customers who can rate canabis shops on quality (React Native)"
+
+      - title: Video comparison app
+        tagline: "App to get insights on your video marketing strategy of facebook and google Ads."
+
+      - title: Finance message tool
+        tagline: "Simple way to respond to order or invoice massages."
+
 
 skills:
     title: Skills &amp; Proficiency
