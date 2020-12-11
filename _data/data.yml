@@ -51,7 +51,7 @@ career-profile:
     summary: |
       Web and Technology enthusiast, enjoy solving problems and learning new technologies.
       Graduated in computer science with two years of working experience. Currently 
-      looking for freelance jobs(2-3 days a week), preferred stack: React/GraphQL/Rails.
+      looking for freelance jobs(2-3 days a week), preferred stack: Ruby/GraphQL/ReactJS.
 
 education:
     - degree: BSc of computer science
@@ -61,21 +61,32 @@ education:
           - Information systems
           - Web/Native apps
           - Design patterns
-          - Specialisation Interaction-technology
+          - Specialization Interaction-technology
           - Minor Sensor-technology
 
 experiences:
+  - role: Lead developer
+      time: 2019 - present
+      company: Startupz, The Hague
+      details: |
+        Responsible for developing and managing the process of building MVPs.
+
+          - Created an app to generate and manage escrow agreements. (Rails)
+          - Tool to collect and store deposit materials for the escrow app. (Rails)
+          - Created an privacy managing system. (Ruby/Graphql/ReactJS)
+          - Created web widget (Native JS)
+
     - role: Backend developer
-      time: 2018 - present
+      time: 2018 - 2019
       company: Leaplines, Leiden
       details: |
         Responsible for building education training apps with Rails backend.
 
           - Created video sharing app (Rails/PostgreSQL)
-          - Created React Admin tool (backend + API)\
+          - Created React Admin tool (backend + API)
           - Added error monitoring to all our apps (sentry.io)
           - Created backend academy app (graphql/Ruby/PostgreSQL)
-          - Added internationalisation to multible apps
+          - Added internationalisation to multiple apps
           - Deploying apps with docker on kubernetes / Heroku
 
     - role: Frontend developer
@@ -92,61 +103,17 @@ experiences:
           - Created native app (React Native)
           - Automated web testing (Cypress.io)
 
-    - role: Frontend developer
-      time: 2017
-      company: Innecs Power Systems, Ter Aar
-      details: |
-        Responsible for creating data visualization system based on sensors of industrial machines.
-
-          - Created UI design
-          - Created web application (React/Firebase/Python)
-
 projects:
-    title: Projects
+    title: Freelance assignments
     assignments:
       - title: Telegram bot
         tagline: "Telegram bot created for broadcasting crypto signals (Rails, REST)"
-
-      - title: Prototype app
-        tagline: "Native mobile app made for customers who can rate canabis shops on quality (React Native)"
 
       - title: Video comparison app
         tagline: "App to get insights on your video marketing strategy of facebook and google Ads."
 
       - title: Finance message tool
         tagline: "Simple way to respond to order or invoice massages."
-
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: React
-        level: 80%
-
-      - name: HTML5
-        level: 80%
-
-      - name: SASS
-        level: 80%
-
-      - name: React Native
-        level: 60%
-
-      - name: GraphQL
-        level: 80%
-
-      - name: Ruby on Rails
-        level: 70%
-
-      - name: PostgreSQL
-        level: 80%
-
-      - name: Docker/docker-compose
-        level: 60%
-
-      - name: Kubernetes
-        level: 60%
 
 
 footer: >
