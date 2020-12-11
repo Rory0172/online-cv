@@ -65,7 +65,7 @@ education:
           - Minor Sensor-technology
 
 experiences:
-  - role: Lead developer
+    - role: Lead developer
       time: 2019 - present
       company: Startupz, The Hague
       details: |
